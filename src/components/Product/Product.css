@@ -1,7 +1,7 @@
 .product-card
 {
     height: 28rem;
-    width: 20rem;
+    width: 18rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
