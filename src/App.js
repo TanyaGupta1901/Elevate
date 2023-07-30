@@ -4,9 +4,6 @@ import Navbar from './components/Navbar/Navbar';
 import Banner from './components/Banner/Banner';
 import ProductsContainer from './components/Product/ProductsContainer';
 
-import './App.css';
-
-
 function App() {
 
   const [category, setCategory] = useState('All');
