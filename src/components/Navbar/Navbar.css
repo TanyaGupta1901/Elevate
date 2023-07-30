@@ -104,7 +104,7 @@ nav {
   }
   .lang-select > select {
     display: flex;
-    width: 40%;
+    width: 65%;
     margin: auto;
     font-size: 1rem;
     border-radius: 0.5rem;
